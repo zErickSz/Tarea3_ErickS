@@ -1,0 +1,16 @@
+id,temperatura,humedad,ciudad
+1,25,60,Bogota
+2,30,55,Medellin
+3,28,70,Cali
+4,22,65,Bogota
+5,35,50,Medellin
+6,27,80,Cali
+7,29,60,Bogota
+8,31,55,Medellin
+9,26,75,Cali
+10,33,52,Bogota
+11,24,68,Bogota
+12,32,58,Medellin
+13,29,73,Cali
+14,21,82,Bogota
+15,34,49,Medellin
